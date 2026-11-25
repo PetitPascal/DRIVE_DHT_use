@@ -2,7 +2,7 @@
 
 R code for the article **"Leveraging machine learning to identify predictors of digital health technology use among rheumatic patients using German survey data"**
 
-Archived version: https://doi.org/[Zenodo DOI] · License: MIT
+Archived version: https://doi.org/10.5281/zenodo.24538300 · License: MIT
 
 ## What this repository does
 
@@ -65,7 +65,7 @@ DRIVE_DHT_use/
 
 ## Citation
 
-Please cite the article and the archived code: Pascal Petit (2026). *DRIVE: code for Leveraging machine learning to identify predictors of digital health technology use among rheumatic patients using German survey data* (v1.0.0). Zenodo. https://doi.org/[Zenodo DOI]
+Please cite the article and the archived code: Pascal Petit (2026). *DRIVE: code for Leveraging machine learning to identify predictors of digital health technology use among rheumatic patients using German survey data* (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.24538300
 
 ## License and contact
 
