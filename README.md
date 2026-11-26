@@ -69,4 +69,4 @@ Please cite the article and the archived code: Pascal Petit (2026). *DRIVE: code
 
 ## License and contact
 
-MIT License (see `LICENSE`). Questions: [name, e-mail].
+MIT License (see `LICENSE`). Questions: Pascal Petit.
